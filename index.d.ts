@@ -144,6 +144,7 @@ export interface IAppItemFullDetail extends IAppItem {
   version: string
   recentChanges: string
   comments: string[]
+  privacyPolicy: string
 }
 
 export interface IReviewsItem {
