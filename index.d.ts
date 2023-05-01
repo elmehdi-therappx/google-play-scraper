@@ -320,3 +320,4 @@ export const similar: IFnSimilar
 export const permissions: IFnPermissions
 export const categories: IFnCategories
 export const memoized: IFnMemoized
+export const datasafety: any
